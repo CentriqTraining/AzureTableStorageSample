@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <PartitionKey>Manager</PartitionKey>
+    <RowKey>0</RowKey>
+    <Timestamp />
+    <ID>0</ID>
+    <LastName>Tucker</LastName>
+    <FirstName>Michael</FirstName>
+    <Position>Manager</Position>
+    <Salary>18.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Asst. Manager</PartitionKey>
+    <RowKey>1</RowKey>
+    <Timestamp />
+    <ID>1</ID>
+    <LastName>Grimes</LastName>
+    <FirstName>Morgan</FirstName>
+    <Position>Asst. Manager</Position>
+    <Salary>12.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Asst. Manager</PartitionKey>
+    <RowKey>2</RowKey>
+    <Timestamp />
+    <ID>2</ID>
+    <LastName>Milbarge</LastName>
+    <FirstName>Emmett</FirstName>
+    <Position>Asst. Manager</Position>
+    <Salary>14.00</Salary>
+    <TerminationDate>2012-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Asst. Manager</PartitionKey>
+    <RowKey>3</RowKey>
+    <Timestamp />
+    <ID>3</ID>
+    <LastName>Tang</LastName>
+    <FirstName>Harry</FirstName>
+    <Position>Asst. Manager</Position>
+    <Salary>12.00</Salary>
+    <TerminationDate>2011-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Manager</PartitionKey>
+    <RowKey>4</RowKey>
+    <Timestamp />
+    <ID>4</ID>
+    <LastName>Beckman</LastName>
+    <FirstName>Diane</FirstName>
+    <Position>Manager</Position>
+    <Salary>22.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>5</RowKey>
+    <Timestamp />
+    <ID>5</ID>
+    <LastName>Casey</LastName>
+    <FirstName>John</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>10.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>6</RowKey>
+    <Timestamp />
+    <ID>6</ID>
+    <FirstName>Fernando</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>9.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>7</RowKey>
+    <Timestamp />
+    <ID>7</ID>
+    <FirstName>Bunny</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>9.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd</PartitionKey>
+    <RowKey>8</RowKey>
+    <Timestamp />
+    <ID>8</ID>
+    <LastName>Bartowski</LastName>
+    <FirstName>Chuck</FirstName>
+    <Position>Nerd Herd</Position>
+    <Salary>13.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd, Apple</PartitionKey>
+    <RowKey>9</RowKey>
+    <Timestamp />
+    <ID>9</ID>
+    <LastName>Barnes</LastName>
+    <FirstName>Jeffrey</FirstName>
+    <Position>Nerd Herd, Apple</Position>
+    <Salary>11.25</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd, Apple</PartitionKey>
+    <RowKey>10</RowKey>
+    <Timestamp />
+    <ID>10</ID>
+    <LastName>Patel</LastName>
+    <FirstName>Lester</FirstName>
+    <Position>Nerd Herd, Apple</Position>
+    <Salary>11.25</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd</PartitionKey>
+    <RowKey>11</RowKey>
+    <Timestamp />
+    <ID>11</ID>
+    <LastName>Johnson</LastName>
+    <FirstName>Skip</FirstName>
+    <Position>Nerd Herd</Position>
+    <Salary>12.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd</PartitionKey>
+    <RowKey>12</RowKey>
+    <Timestamp />
+    <ID>12</ID>
+    <LastName>Wu</LastName>
+    <FirstName>Anna</FirstName>
+    <Position>Nerd Herd</Position>
+    <Salary>9.00</Salary>
+    <TerminationDate>2012-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Nerd Herd</PartitionKey>
+    <RowKey>13</RowKey>
+    <Timestamp />
+    <ID>13</ID>
+    <LastName />
+    <FirstName>Hannah</FirstName>
+    <Position>Nerd Herd</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2012-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>14</RowKey>
+    <Timestamp />
+    <ID>14</ID>
+    <LastName />
+    <FirstName>Greta</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2012-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>15</RowKey>
+    <Timestamp />
+    <ID>15</ID>
+    <LastName>Noble</LastName>
+    <FirstName>Rick</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>16</RowKey>
+    <Timestamp />
+    <ID>16</ID>
+    <LastName>Dunwoody</LastName>
+    <FirstName>Victoria</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Founder</PartitionKey>
+    <RowKey>17</RowKey>
+    <Timestamp />
+    <ID>17</ID>
+    <LastName>Finkelstein</LastName>
+    <FirstName>Moses</FirstName>
+    <Position>Founder</Position>
+    <Salary>180.00</Salary>
+    <TerminationDate xsi:nil="true" />
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>18</RowKey>
+    <Timestamp />
+    <ID>18</ID>
+    <LastName>Bauer</LastName>
+    <FirstName>Porter</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>19</RowKey>
+    <Timestamp />
+    <ID>19</ID>
+    <LastName>Gadsby</LastName>
+    <FirstName>Marvin</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>20</RowKey>
+    <Timestamp />
+    <ID>20</ID>
+    <LastName>Goldenberg</LastName>
+    <FirstName>Cecil</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>21</RowKey>
+    <Timestamp />
+    <ID>21</ID>
+    <LastName>James</LastName>
+    <FirstName>Christina</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>22</RowKey>
+    <Timestamp />
+    <ID>22</ID>
+    <LastName>Mango</LastName>
+    <FirstName>Ruben</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>23</RowKey>
+    <Timestamp />
+    <ID>23</ID>
+    <LastName>Sawaya</LastName>
+    <FirstName>Sal</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>24</RowKey>
+    <Timestamp />
+    <ID>24</ID>
+    <LastName>Stoinitz</LastName>
+    <FirstName>Skye</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>25</RowKey>
+    <Timestamp />
+    <ID>25</ID>
+    <LastName>Williams</LastName>
+    <FirstName>Leticia</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+  <Employee>
+    <PartitionKey>Green Shirt</PartitionKey>
+    <RowKey>26</RowKey>
+    <Timestamp />
+    <ID>26</ID>
+    <LastName>Yang</LastName>
+    <FirstName>Sarah</FirstName>
+    <Position>Green Shirt</Position>
+    <Salary>8.00</Salary>
+    <TerminationDate>2010-01-31T00:00:00</TerminationDate>
+  </Employee>
+</ArrayOfEmployee>
